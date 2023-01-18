@@ -9,6 +9,7 @@
   display: grid;
   gap: 1rem;
   justify-items: center;
+  padding: 2rem 0;
 }
 
 .card {
