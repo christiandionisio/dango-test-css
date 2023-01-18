@@ -74,7 +74,7 @@
   width: 100%;
 }
 
-.card-footer button {
+.button-basic {
   border: none;
   width: 100%;
   margin: 5px 0;
@@ -92,6 +92,18 @@
 .btn-white {
   background: #F2F2F2 !important;
   color: black !important;
+}
+
+.btn-red {
+  background: red !important;
+  color: white !important;
+}
+
+.buttons-section {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
 }
 
 

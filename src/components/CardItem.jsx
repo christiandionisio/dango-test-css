@@ -16,8 +16,8 @@ export const CardItem = () => {
         </div>
 
         <div className="card-footer">
-            <button>Add to cart</button>
-            <button className='btn-white'>Learn More</button>
+            <button className='button-basic'>Add to cart</button>
+            <button className='button-basic btn-white'>Learn More</button>
         </div>
     </div>
   )
