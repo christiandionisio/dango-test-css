@@ -1,7 +1,7 @@
-import './App.css';
+import './styles.css';
 import { CardItem } from './components/CardItem';
 
-function App() {
+function HomeApp() {
   return (
     <div>
       <div className="cards">
@@ -17,4 +17,4 @@ function App() {
   );
 }
 
-export default App;
+export default HomeApp;
